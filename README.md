@@ -34,7 +34,7 @@
 
 ```typescript
 const riteesh = {
-    ⚡ Code • Create • Innovate
+    ⚡ Code • Create • Innovate ⚡
      Turning coffee into code ☕
     role: "Cybersecurity Engineer& Full-Stack Engineer",
     location: "Karad, Maharashtra, India 🇮🇳",
@@ -44,7 +44,7 @@ const riteesh = {
 };
 ```
 
-**Building at the intersection of Cybersecurity and Engineering** — I build secure, scalable systems that solve real-world problems. From developing full stack applications to exploring cybersecurity and ethical hacking, I turn ideas into impactful and resilient solutions.
+**Building at the intersection of Cybersecurity and Engineering** — Building secure, scalable systems & real-world solutions through code and cybersecurity.
 ---
 
 ## 🛠️ Technology Stack
