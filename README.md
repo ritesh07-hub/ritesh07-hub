@@ -6,17 +6,6 @@
 </p>
 
 
-<div align="center">
-
-<!-- Header with Gradient Banner -->
-<!-- 🖤 DARK STATIC BANNER -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F0F0F,100:1C1C1C&height=200&section=header&text=Ritesh%20Gondhali&fontColor=#0ffc03F&fontSize=35&animation=fadeIn" />
-</p>
-
-<!-- Animated Subtitle -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=F75C03&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=AI+%26+Data+Science+Engineer;Full-Stack+Developer;Building+Intelligent+Products+%F0%9F%9A%80" alt="Typing SVG" />
-
 <br/>
 
 <!-- Social Badges with Hover Effects -->
