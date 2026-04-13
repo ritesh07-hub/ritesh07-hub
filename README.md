@@ -195,7 +195,4 @@ current_focus = {
 <div align="center">
 
 ### 💡 "Building the future, one commit at a time"
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F0F0F,100:1C1C1C&animation=fadeIn" />
-
 </div>
