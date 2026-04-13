@@ -137,16 +137,16 @@ const riteesh = {
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Yashrajsalunkhe&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866&text_color=E3E3E3" alt="GitHub Stats"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yashrajsalunkhe&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=F85D7F&text_color=E3E3E3&langs_count=8" alt="Top Languages"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ritesh07-hub&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866&text_color=E3E3E3" alt="GitHub Stats"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ritesh07-hub&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=F85D7F&text_color=E3E3E3&langs_count=8" alt="Top Languages"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Yashrajsalunkhe&theme=react&hide_border=true&background=0D1117&stroke=0D1117&ring=F85D7F&fire=F85D7F&currStreakLabel=F85D7F" alt="GitHub Streak Stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ritesh07-hub&theme=react&hide_border=true&background=0D1117&stroke=0D1117&ring=F85D7F&fire=F85D7F&currStreakLabel=F85D7F" alt="GitHub Streak Stats"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Yashrajsalunkhe&theme=react-dark&hide_border=true&area=true&custom_title=Contribution%20Graph" alt="Contribution Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ritesh07-hub&theme=react-dark&hide_border=true&area=true&custom_title=Contribution%20Graph" alt="Contribution Graph"/>
 </div>
 
 ---
