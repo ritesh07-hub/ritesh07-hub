@@ -8,15 +8,25 @@
 
 <br/>
 
-<!-- Social Badges with Hover Effects -->
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2)](www.linkedin.com/in/ritesh-gondhali-09a8ab298e)
-<!--[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=E4405F)]()
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=FF5722)]() -->
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=EA4335)](mailto:riteshgondhali77@gmail.com)
+<!-- 🌐 Social Badges Centered -->
+<p align="center">
+
+  <a href="https://www.linkedin.com/in/ritesh-gondhali-09a8ab298">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2" />
+  </a>
+
+  <a href="mailto:riteshgondhali77@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=EA4335" />
+  </a>
+
+</p>
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=ritesh07-hub&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS)
+<!-- 👀 Profile Views Centered -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ritesh07-hub&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS" />
+</p>
 
 ---
 
