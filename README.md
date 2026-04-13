@@ -54,20 +54,19 @@ const riteesh = {
 <summary><b>💀 Cyber Arsenal (Kali Linux)</b></summary>
 <br/>
 
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-000000?style=for-the-badge&logo=kalilinux&logoColor=blue)
-![Metasploit](https://img.shields.io/badge/Metasploit_Framework-000000?style=for-the-badge&logoColor=blue)
-![Nmap](https://img.shields.io/badge/Nmap-000000?style=for-the-badge&logoColor=green)
-![Wireshark](https://img.shields.io/badge/Wireshark-000000?style=for-the-badge&logo=wireshark&logoColor=blue)
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
+![Metasploit](https://img.shields.io/badge/Metasploit-2E86C1?style=for-the-badge&logoColor=white)
+![Nmap](https://img.shields.io/badge/Nmap-16A085?style=for-the-badge&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
 
 <br>
 
-![Burp Suite](https://img.shields.io/badge/Burp_Suite-000000?style=for-the-badge&logoColor=orange)
-![OWASP Top 10](https://img.shields.io/badge/OWASP_Top_10-000000?style=for-the-badge&logo=owasp&logoColor=white)
-![SQLMap](https://img.shields.io/badge/SQLMap-000000?style=for-the-badge&logoColor=red)
-![Hydra](https://img.shields.io/badge/Hydra-000000?style=for-the-badge&logoColor=yellow)
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-F97316?style=for-the-badge&logoColor=white)
+![OWASP](https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=owasp&logoColor=white)
+![SQLMap](https://img.shields.io/badge/SQLMap-8E44AD?style=for-the-badge&logoColor=white)
+![Hydra](https://img.shields.io/badge/Hydra-C0392B?style=for-the-badge&logoColor=white)
 
 </details>
-
 
 <details open>
 <summary><b>🎨 Frontend Development</b></summary>
