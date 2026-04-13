@@ -8,7 +8,7 @@
 
 
 # 💫 About Me:
-<br><br>⚡ Code • Create • Innovate<br>   Turning coffee into code ☕<br><br>- 🔭 Currently working on: Full Stack Projects  <br>- 🌱 Learning: Advanced Web Development & APIs  <br>- 💡 Interested in: AI, Cybersecurity & Web Apps  <br>- ⚡ Fun fact: I turn ideas into code  
+<br>⚡ Code • Create • Innovate<br>   Turning coffee into code ☕<br><br>- 🔭 Currently working on: Full Stack Projects  <br>- 🌱 Learning: Advanced Web Development & APIs  <br>- 💡 Interested in: AI, Cybersecurity & Web Apps  <br>- ⚡ Fun fact: I turn ideas into code  
 
 
 ## 🌐 Socials:
